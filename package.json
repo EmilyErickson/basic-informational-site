@@ -1,0 +1,26 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyErickson/basic-informational-site.git"
+  },
+  "author": "Emily Erickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilyErickson/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/EmilyErickson/basic-informational-site#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
