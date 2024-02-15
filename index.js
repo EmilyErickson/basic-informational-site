@@ -68,7 +68,7 @@ function getContentType(filePath) {
   }
 }
 
-// Code only using node.js
+// Code below this only uses node.js
 
 // const http = require("http");
 // const path = require("path");
